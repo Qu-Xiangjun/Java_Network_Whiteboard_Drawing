@@ -34,7 +34,7 @@ MVC结构
 
 ###### 界面如下：
 
-![image-20200528161002725](C:\Users\quxiangjun\AppData\Roaming\Typora\typora-user-images\image-20200528161002725.png)
+![image-20200528161002725](gui.png)
 
 ###### 1.画图
 
